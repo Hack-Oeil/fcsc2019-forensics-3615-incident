@@ -17,6 +17,10 @@ Vous n'avez donc pas besoin de télécharger le fichier mem.dmp.tar.xz
 si vous l'avez déjà récupérer dans une autre partie du challenge
 ```
 
+le fichier commun est **[mem.dmp.tar.xz](https://hackropole.fr/filer/fcsc2019-forensics-3615-incident/public_filer/mem.dmp.tar.xz)**
+
+
+-----------
 
 Auteur : alx
 
