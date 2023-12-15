@@ -22,9 +22,9 @@ Déchiffrez le fichier le fichier est **data** !
 ------------
 ### Les autres étapes
 
-[3615 Incident 1/3](README_1_3.md)
-[3615 Incident 2/3](README_2_3.md)
-**3615 Incident 3/3**
+- [3615 Incident 1/3](README_1_3.md)
+- [3615 Incident 2/3](README_2_3.md)
+- **3615 Incident 3/3**
 
 
 ------------

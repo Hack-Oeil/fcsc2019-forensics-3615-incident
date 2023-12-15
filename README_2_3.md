@@ -25,9 +25,9 @@ Note : Réponse attendue au format **ECSC{hey.hex()}**
 ------------
 ### Les autres étapes
 
-[3615 Incident 1/3](README_1_3.md)
-**3615 Incident 2/3**
-[3615 Incident 3/3](README_3_3.md)
+- [3615 Incident 1/3](README_1_3.md)
+- **3615 Incident 2/3**
+- [3615 Incident 3/3](README_3_3.md)
 
 
 ------------
