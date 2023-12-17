@@ -15,8 +15,9 @@ Vous être sur la **partie 3**/3, le fichier commun est **[mem.dmp.tar.xz](https
 
 Une victime de plus tombée sous le coup d’un rançongiciel. Le paiement de la rançon n’est pas envisagée vu le montant demandé. Vous êtes appelé pour essayer de restaurer les fichiers chiffrés.
 
-Déchiffrez le fichier le fichier est **data** !
+Déchiffrez le fichier : **[data](https://hackropole.fr/challenges/fcsc2019-forensics-3615-incident/public/data)** !
 
+Vous pouvez le télécharger le fichier **data** depuis l'application **Les CTFs de Cyrhades** ou en faisant clique droit télécharger à partir du lien ci dessus.
 
 
 ------------
